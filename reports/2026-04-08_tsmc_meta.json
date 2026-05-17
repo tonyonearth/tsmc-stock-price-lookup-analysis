@@ -1,0 +1,30 @@
+{
+  "report_date": "2026-04-08",
+  "generated_at": "2026-04-08T15:10:19.526940+08:00",
+  "timezone": "Asia/Taipei",
+  "stock_no": "2330",
+  "gemini_model": "gemini-2.5-flash",
+  "analysis_ok": false,
+  "today_has_new_data": true,
+  "market_should_open": true,
+  "market_event": null,
+  "latest_trade_date": "2026-04-08",
+  "latest_close": "1,950.00",
+  "latest_change": "+90.00",
+  "latest_volume": "53,145,263",
+  "report_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-04-08_tsmc_report.txt",
+  "summary_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-04-08_tsmc_summary.txt",
+  "meta_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-04-08_tsmc_meta.json",
+  "email_sent": true,
+  "line_push_attempted": true,
+  "line_push_sent": true,
+  "line_push_error": "",
+  "line_push_response": [
+    {
+      "status_code": 200,
+      "ok": true,
+      "body": "{\"sentMessages\":[{\"id\":\"608678937501368770\",\"quoteToken\":\"JcpYREBAMAReAMFG9qdV4OBD4rwavvendKjJzL27SKEX1Tnqb4C_56WqQtuKvYl4cCjXUP6HfxWpn_3T7w20OSMMVZgox8hrN1qJce9eG6KOBMQQYPt7Y0IjwyuPFNFGOCdZ_-3A6YambnLjYAodLg\"}]}"
+    }
+  ],
+  "status": "partial"
+}

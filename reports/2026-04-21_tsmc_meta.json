@@ -1,0 +1,43 @@
+{
+  "report_date": "2026-04-21",
+  "generated_at": "2026-04-21T14:10:53.113055+08:00",
+  "timezone": "Asia/Taipei",
+  "stock_no": "2330",
+  "gemini_model": "gemini-2.5-flash-lite",
+  "gemini_model_primary": "gemini-2.5-flash",
+  "gemini_model_fallback": "gemini-2.5-flash-lite",
+  "gemini_model_used": "gemini-2.5-flash-lite",
+  "gemini_thinking_budget_primary": -1,
+  "gemini_thinking_budget_fallback": 24576,
+  "gemini_thinking_budget_used": 24576,
+  "gemini_include_thoughts": false,
+  "gemini_fallback_used": true,
+  "gemini_fallback_reason": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "gemini_attempted_models": [
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite"
+  ],
+  "analysis_ok": true,
+  "today_has_new_data": true,
+  "market_should_open": true,
+  "market_event": null,
+  "latest_trade_date": "2026-04-21",
+  "latest_close": "2,050.00",
+  "latest_change": "+25.00",
+  "latest_volume": "25,623,000",
+  "report_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-04-21_tsmc_report.txt",
+  "summary_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-04-21_tsmc_summary.txt",
+  "meta_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-04-21_tsmc_meta.json",
+  "email_sent": true,
+  "line_push_attempted": true,
+  "line_push_sent": true,
+  "line_push_error": "",
+  "line_push_response": [
+    {
+      "status_code": 200,
+      "ok": true,
+      "body": "{\"sentMessages\":[{\"id\":\"610557373392355588\",\"quoteToken\":\"D4MR-hzzm7m2uBUMMrZFCc31MLJGkmH9_xGPaO9rW5rvXS5pfIKv6BRqBWX0nDbVUugSH8LU7vyx9mPLwBpP57ucUjo0qB93xveR5bwAic9iTqB1jm0i1E5dNkQqo6Bzi7GtqZYV2bniAlTOplbXKA\"}]}"
+    }
+  ],
+  "status": "ok"
+}

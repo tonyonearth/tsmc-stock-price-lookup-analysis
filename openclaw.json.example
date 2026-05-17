@@ -1,0 +1,52 @@
+{
+  // ~/.openclaw/openclaw.json
+  // 這份是以「OpenClaw 當 LINE 查詢入口」為目標的範本。
+  // LINE 主動推播不靠 OpenClaw，而是由 daily_tsmc_report.py 直接呼叫 LINE Messaging API。
+  // OpenClaw 只負責：status / summary / push-line 這類讀取型操作。
+
+  gateway: {
+    mode: "local",
+    bind: "loopback",
+    port: 18789,
+    auth: {
+      mode: "token",
+      token: "PUT_A_LONG_RANDOM_TOKEN_HERE",
+      allowTailscale: true,
+      rateLimit: {
+        maxAttempts: 10,
+        windowMs: 60000,
+        lockoutMs: 300000,
+        exemptLoopback: true
+      }
+    },
+    controlUi: {
+      enabled: true,
+      basePath: "/openclaw"
+    }
+  },
+
+  session: {
+    dmScope: "per-channel-peer"
+  },
+
+  agents: {
+    defaults: {
+      userTimezone: "Asia/Taipei",
+      timeFormat: "24",
+      timeoutSeconds: 600
+      // model: "google/gemini-2.5-flash-lite"
+    }
+  },
+
+  channels: {
+    line: {
+      enabled: true,
+      channelAccessToken: "LINE_CHANNEL_ACCESS_TOKEN",
+      channelSecret: "LINE_CHANNEL_SECRET",
+      dmPolicy: "pairing"
+      // 若你之後想改嚴格 allowlist，也可改成：
+      // dmPolicy: "allowlist",
+      // allowFrom: ["Uxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"]
+    }
+  }
+}

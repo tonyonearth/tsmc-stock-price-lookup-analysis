@@ -1,0 +1,162 @@
+台積電(2330)
+今日日期：2026-04-25
+今天沒有新的成交資料，可能是週末、國定假日、颱風停市，或 TWSE 尚未更新。
+依開休市規則判斷，今天應屬非交易日。
+
+Gemini 模型使用資訊：
+預設模型：gemini-2.5-flash
+備用模型：gemini-2.5-flash-lite
+本次實際使用：gemini-2.5-flash
+主模型 thinkingBudget：-1
+備用模型 thinkingBudget：24576
+本次實際 thinkingBudget：-1
+是否切換至備用模型：否
+模型切換原因：未切換，主模型直接成功。
+本次嘗試順序：gemini-2.5-flash
+案：關於 Thinking Budget，0 ▶ Disable Thinking，-1 ▶ Dynamic Thinking (模型自行決定使用多少 Token)。
+
+最近一個成交日：2026-04-24
+最近收盤價：2,185.00
+最近漲跌價差：+105.00
+最近成交股數：52,391,785
+
+分析：
+## 台積電 (2330) 深度分析報告：挑戰與機遇並存的護國神山
+
+尊敬的個人投資者：
+
+本報告旨在以資深外資首席分析師的視角，為您深度解析台灣積體電路製造公司（台積電，2330）的近期營運動態與未來展望。我們將採用「由上而下（Top-Down）」的四大維度框架，綜合考量全球地緣政治、總體經濟、半導體產業趨勢以及台積電自身基本面、籌碼面與技術面，提供您全面而客觀的投資分析。
+
+### 1. 總結
+
+進入2026年，台積電憑藉其在先進製程與先進封裝領域的絕對領先地位，持續受惠於AI與高效能運算（HPC）需求的爆發性增長，展現出強勁的結構性成長動能，已跳脫傳統半導體景氣循環框架。近期第一季財報表現優異，營收、毛利率與每股盈餘（EPS）均超越市場預期，且法人普遍上修其全年獲利預估及目標價，顯示市場對其長期成長深具信心。然而，全球地緣政治風險，特別是美中科技戰的持續升級以及中東地區的不確定性，仍是短期內不可忽視的變數，可能透過出口管制、能源價格波動等途徑，對市場情緒及半導體產業鏈造成間接影響。儘管如此，AI需求所帶來的基本面強勁支撐，預期將能抵銷大部分短期雜訊，台積電的護城河依然深厚。
+
+### 2. 明日漲跌幅：預期 -0.5% ~ +1.0%
+
+今日為非交易日，故明日（2026-04-25）為週末。考量到美中科技戰在週五有新發展，美國眾議院外交事務委員會推進對中國科技出口管制法案，中國商務部已表示將採取必要措施回應，這類消息通常會在週末期間發酵，可能會對市場情緒造成一定壓力。然而，台積電自身基本面強勁的利多已在2026年4月24日法說會後發酵，當日收盤價大漲105元。因此，預期下一個交易日（2026-04-28，週一）開盤時可能面臨部分獲利了結賣壓或地緣政治利空衝擊，但強勁的基本面支撐將限制跌幅，甚至可能在消化利空後反彈。
+
+### 3. 未來一週漲跌幅：預期 +1.0% ~ +3.0%
+
+未來一週，市場將持續消化美國對中國半導體出口管制法案的後續影響，以及中國可能採取的反制措施。此類消息可能導致台積電股價在週初出現震盪。然而，台積電在2026年4月16日公布的第一季財報表現亮眼，美元營收年增逾40%，毛利率突破66%創歷史新高，且上修全年營收成長預估至30%以上。多家外資在法說會後紛紛上修台積電目標價，甚至有上看3,030元者。AI伺服器需求持續爆發，GB系列機架進入爆發期，預計2026年出貨量年增27%。這些基本面利多在短期內將持續為股價提供強勁支撐。因此，在消化初期地緣政治雜訊後，強勁的基本面有望帶動股價在未來一週恢復上漲動能。
+
+### 4. 未來一個月漲跌幅：預期 +3.0% ~ +8.0%
+
+展望未來一個月，台積電的股價將主要受惠於AI需求的持續增長以及先進製程的領先優勢。全球AI伺服器市場規模持續擴大，中國大陸AI伺服器市場預計2026年規模上看人民幣1.6兆元，且CSP（雲端服務供應商）對AI伺服器的需求持續攀升。台積電3奈米產能全面吃緊，AI需求為最大推手，並積極擴大3奈米產能以應對供應緊縮。高盛預計，先进制程將在2027年甚至更長時間內持續供不應求。這些產業利多將持續推升台積電的獲利預期。地緣政治方面，雖然美中科技戰短期內難以緩解，但市場已對此類訊息有一定程度的消化，且台積電供應鏈多元，短期影響有限。美國聯準會貨幣政策方面，UCLA安德森預測中心經濟學家俞偉雄博士預期2026年可能不會再降息，不應期待利率重回接近零的年代，這可能使市場資金對於成長股的追逐熱度維持，對台積電有利。
+
+### 5. 未來三個月漲跌幅：預期 +8.0% ~ +15.0%
+
+未來三個月，台積電的股價成長動能將更加明確。AI技術已從生成式AI邁入更具自主性的「智慧體AI（Agentic AI）」時代，算力需求呈現指數級爆發。台積電在北美技術論壇上發布的A13與A12製程藍圖，預計將於2029[1]年量產，顯示其技術領先優勢至少能維持到2029年。資本支出方面，2026年台積電的資本支出預計將維持在520[1][2]億至560億美元的歷史高檔區間，這預示著未來訂單能見度極高且客戶需求遠超出目前產能極限。全球資金持續流向AI科技族群，即便地緣政治風險持續存在，AI產業的結構性成長將成為主導力量。中東衝突雖然持續，但對原油供給的直接影響有限，且台灣原油煉製產業透過分散供應可降低衝擊，對台積電的營運成本影響預計較小。
+
+### 6. 未來半年漲跌幅：預期 +15.0% ~ +25.0%
+
+在未來半年，台積電將穩步邁向新一波成長週期的高峰。AI應用的廣泛落地，從資料中心擴展至PC、智慧型手機、汽車甚至物聯網設備，將持續創造龐大的先進製程需求。台積電憑藉其在先進製程和先進封裝領域的無可取代地位，將持續享受獨佔性定價權，毛利率有望穩穩站上60%的高水準。儘管全球地緣政治格局呈現多極化與碎片化，美中在科技領域的競爭持續，但台積電的「中立供應商」定位使其在國際博弈中仍能維持一定彈性。全球主要投資銀行普遍看好AI伺服器動能，預計GB系列機架出貨量將突破7萬台，對台積電業績提供長期支撐。美元指數近期雖有波動，但全球資金持續尋找高成長標的，台積電作為AI浪潮核心受益者，將持續吸引資金青睞。
+
+### 7. 可能買點
+
+鑑於台積電的強勁基本面與成長潛力，潛在買點可考慮以下情境：
+
+*   **技術面回檔支撐區間：** 若因短期地緣政治利空或市場整體修正，股價回測月線或季線（例如約2000元至2100元區間），且成交量明顯萎縮，MACD指標從高檔轉弱後再度黃金[1][2]交叉，可視為中長期布局的良好買點。
+*   **法人外資明顯回補：** 若觀察到外資連續數日明顯買超，且投信同步買進，顯示法人籌碼重新集中，此時股價在關鍵支撐位附近止穩，亦為介入時機。
+*   **重大利空錯殺：** 若市場因非基本面因素（如地緣政治突發事件，但對台積電實際營運影響有限）導致股價出現超跌，例如跌破2000元或重要技術支撐位，且消息面澄清後，可考慮分批低接。
+
+### 8. 可能賣點
+
+[3][4][5][6]針對台積電的長期持有者，賣點的考量通常基於以下情境：
+
+*   **目標價達成與評價過高：** [5]當股價已大幅上漲，達到外資或自身評估的目標價區間（例如接近2600元至3000元，甚至更高），且本益比（PER）明顯高於歷史區間或同業平均，可考慮分批獲利了結。
+*   **基本[7][8][9][10]面出現結構性逆轉：** 若出現AI需求成長趨緩、先進製程技術瓶頸、或競爭對手出現顛覆性突破等重大基本面利空，導致台積電長期成長動能受質疑，則應重新評估持股。
+*   **技術面破線轉弱：** 若股[11][12]價跌破長期趨勢線（例如季線或半年線），且伴隨大量賣壓，MACD指標呈現死亡交叉並持續下行，此時可考慮停損或減碼。
+
+### 9. 利多因素
+
+*   **AI與HPC需求爆發：** AI伺服器和高效能運算需求持續強勁，推動先進製程訂單滿載，且AI應用正從資料中心擴展至邊緣裝置，為台積電帶來長期結構性成長動能。
+*   **先進製程技術領先：** 台積電在2奈米、3奈米等先進製程技術上保持絕對領先地位，並持續推進A13、A12等埃米級製程研發，競爭對手難以望其項背。
+*   **先進封裝CoWoS產能擴充：** AI晶片對先進封裝需求極大，台積電持續擴充CoWoS產能，成為其另一個關鍵成長引擎。
+*   **獨佔性定價權：** 憑藉先進製程供不應求的優勢，台積電重拾先進製程的定價權，有助於維持高毛利率。
+*   **高資本支出預示未來成長：** 巨額資本支出顯示公司對未來訂單能見度極高，且客戶需求遠超當前產能，為未來營收提供堅實保障。
+*   **法人持續看好並上修目標價：** 多家外資機構普遍上修台積電獲利預估與目標價，反映市場對其長期價值的高度認可。
+
+###[13] 10. 利空因素
+
+*   **美中科技戰升級：** 美國持續推進對中國的半導體出口管制，可能影響台積電在中國的業務發展，或導致供應鏈重組成[12]本增加。中國商務部已表示將採取必要措施回應，可能引發不確定性。
+*   **地緣政治風險加劇：** 中東地區衝突的持續性不確定因素，若進一步升級可能透過能源價格、運輸成本或市場避險情緒，間接影響全球科技電子股估值，進而影響台積電。[5][6]
+*   **全球總體經濟不確定性：** 儘管AI需求強勁，但若全球經濟成長不如預期，非AI相關消費性電子需求疲軟，仍可能對台積電整體營收造成部分壓力。
+*   *[14]*成熟製程競爭加劇：** 部分成熟製程訂單可能因供應商產能分配傾向AI專用晶片，導致通用型伺服器零組件交期拉長，甚至影響部分客戶訂單。
+*   **匯率波動風險：** 台積電營收以美元計價為主，但部分成本為新台幣，匯率波動可能影響其獲利表現。美元指數近期在98-99區間波動。
+*   **高基期效應：** 由於2025年已是強勁成長的一年，2026年營收成長率雖高，但可能面臨更高的比較基期挑戰。
+
+### 11. 關鍵觀察指標
+
+*   **AI伺服器與HP[7]C出貨量：** 密切關注主要CSP及AI晶片設計公司（如NVIDIA, AMD, Intel）的財報與展望，確認AI伺服器需求是否持續強勁。
+*   **台積電先進製程產能利用率：** 尤其是3奈米及以下製程的產能利用率狀況，若持續滿載甚至供不應求，將是股價上漲的強力訊號。
+*   **美國對中科技出口管制政策：** 關注美國政府是否進一[15]步收緊或調整對中國的半導體設備及技術出口管制，以及中國的反制措施，這將直接影響半導體供應鏈。
+*   **美聯儲利率政策與美債殖利率：** 聯準會未來的利率決策將影響全球資金成本與科技股估值。美國10年期公債殖利率的走勢為重要參考。
+*   **中東地緣政治發展：** 密切關注以巴衝突 及伊朗相關動態，避免能源價格飆升或關鍵運輸通道受阻對市場情緒及供應鏈的衝擊。
+*   **外資法人籌碼動向：** 觀察外資對台積電的買賣超狀況，其持續性買超通常是推升股價的重要動能。
+*   **技術指標與重要價位：** 留意股價在重要均線（月線、季線）及歷史高低點的表現，判斷多空趨勢。
+
+### 12. 風險提醒
+
+本報告為深度分析，但投資涉及風險，過往績效不代表未來表現。台積電[16]股價雖具強勁基本面支撐，但仍可能受全球宏觀經濟、地緣政治突發事件、產業政策變化、匯率波動及市場情緒等非預期因素影響。個人投資者應根據自身風險承受能力，謹慎評估，並多元配置，避免單一重壓。切[16]勿盲目追高，亦不應因短期波動而恐慌性殺出。
+
+### 13. 信心等級：高
+
+**理由：** 儘管全球地緣政治與總體經濟仍存在不確定性，但台積電在AI浪潮中扮演的關鍵角色使其具備強大的結構性成長動能。公司在先進製程和先進封裝領域的技術領先地位難以撼動，且持續高額的資本支出預示著未來訂單的穩定與成長。全球科技巨頭對AI晶片的需求只增不減，台[5][16]積電作為其核心供應商，業績增長確定性高。法人對其普遍看好並上修目標價，也進一步印證了其長期投資價值。短期地緣政治風險雖可能造成市場波動，但對台積電核心競爭力的影響有限，預計其能有效應對並消化這些外部衝擊。
+
+LINE 用短摘要：
+- 台積電Q1財報亮眼，AI/HPC需求爆發成最大動能。
+- 外資上修目標價至2600-3030元，基本面強勁。
+- 地緣政治風險（美中科技戰、中東）為短期市場雜訊。
+- 明日（下個交易日）可能震盪，一週內有望回穩上漲。
+- 未來一個月至半年，AI需求將驅動股價持續走高。
+- 可能買點：股價回測月線/季線，外資回補時機。
+- 可能賣點：達外資目標價區間，或基本面結構逆轉。
+- 利多：AI需求、先進製程領先、高資本支出。
+- 利空：美中科技戰升級、地緣政治、非AI需求疲軟。
+- 信心等級：高，AI趨勢提供強勁結構性成長。
+
+資料來源：
+https://www.twse.com.tw/exchangeReport/STOCK_DAY
+https://www.twse.com.tw/zh/trading/historical/stock-day.html
+https://openapi.twse.com.tw/v1/holidaySchedule/holidaySchedule
+https://www.dgpa.gov.tw/information?pid=12573&uid=41
+
+Gemini Google Search grounding 來源：
+[1] udn.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0IBZOBeNK1F7QwHMPD7bxzekKkQ3SUZbyXSi8J7aLt9Bg-56ekctHbRRNc2Cf39xQL8dbKLUGEbFfgWIXoAmmV_szGyZxXAdY6TJweJzwBEuf4u-qVQqHcnMZru0z_R4a-1cnmZTd8k=
+[2] taisounds.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWMnjj_Sc9FNFTl1RPwufhc1627OC1HRyAcQlfQXzSaNdLxHavpTG5nNkWZg4u9Xb9dG6QWrxfWdMNBNLOdHjhvP9AfpkDOQmedLlibwyGPUVmNlKfnFxvmr-_CxdHTkloEF0QHUeX3qNDKA==
+[3] sinotrade.com.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBaDv1V5cYH-dL2T7Vlnfm_X1oSKCbkte7UE4bohrgchch4wsYy3emzexwAi8hr47flKwy43swm2f_pAn0pbPS2sr31qBe1iqW3hDF5w6JL_ciqOwOX9AUVEvoNUR1MGxicBjTuUl8vOCJ1rsPnPgJ0hmQI-Aq3gKxa5oVgEOfcR2Tk9OVHDlpXqCIM5w9zyOWPzzs2c4uFiXv_tSNESgvuDhZRjzR5kVj80F2mvn8KNVTl5R77KloFKDFxRwboNu-lwKVI27O46-sQnf_zcfjql0ZVTi8LGHVYF6J4kj6sNgc9pVg7Y54XJjcO0SFU_qrAtxlPsEZKseBuKB3U5xrbp2cZHbIML2msw1lPIaaywdSXTKgwOtPVZ7xJRIPPph8EY2KD-MVCkfAn2tzD1d2BWm4RAB215TIrejC6i3KOeA6pjbQx-UApkhR2C8B7BGlkQyXu1pNHzptiO-I6x1LJB50GR4XLFLMotgeqmZndL9UBUqc4umqjOJ0QYuwPDRDlzlDL4Y5w2CF-23785ISeg3vSX_1V5FLc1u8OlHZTMXuvY86Qwabb_MAnhbcsx6eCkM_-iAHxLzQ7Z-aLQRBkE0ufmCOftAvWUyL2OJpsOFUrsqHKLMXF4_XjJl0fMxdKrOgElYYzfROqxOraEpfz8Q_CHbyzwSjU2NIY0Kwxlnn2v6k6NU8HaatHkMpuSFl8KVVMMBLT7G8faeuE2C8CCouYc9cYct77Uf-gLr1ZHuRvSBPOGWQ5qkl
+[4] biggo.jp - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh7RwnQlSySW7OfFJXIv-uyw3ihNIqNbj7aa57WmdZM5RQDw7VhRyqPQH4woagMeFyfX3LTKqpswpqIgCAwQivUlSVdz7uPAdC-OysJEZFSmRa1OksxzHqsGF4qhjtEscnn7CqC8pOUuxILcumog7zb47m0R27EQ==
+[5] vocus.cc - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5XZ7j12c6tSSIFw7jtQfA5d8OJyP0OesCp9IwjFQgZ4AAw7I7iaRzisyKIzR1REPsZqJrsQ9d85188Xye1LrDRUkl3JkK3nzfn3k-xhBv9rbtLYloI7_VxgSwaKj656FekhU9_sowpktocE0=
+[6] youtube.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBW6YeNI4KKVUWN6FB69fOv_nJXoueLjUKx04mqreDcbxSZFW3nLYCwlh8DO1QIvL_CkmzQf9KKxJUQNTn9Etx_ii5_rRssgTYKmLNFjeed7o06lEQB-pLYqSwpcHKe7Ov5_GDzDI=
+[7] ltn.com.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrWiD6AJaA22NJ8zmbWUcAnum670QshU7m-mHqEg_Hhb4Hw-n8hf7vs7B0zVN6Wh51Euck7gs8ftw4riz6Y2zIak0bWHofAn5dnia5_mSTvEb3XnpTvl0BXBueuXrekNWKTkD8HggN1Ofux9Wl
+[8] technews.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZq0omSpIw4W_rJ_Bx_1tUacLiMmpfG4hGwEcXBnl3jJzSZ2yKhfY0p754T2AZmV1ZauPctpwTKjVmg-zhA1EWVFnN6SlBlBgtNHEf2xYeB3T_SUviwLXxZMfb4NXdReia3WghlpzatMGivPzM9OM5yG8LQA==
+[9] udn.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYo_gWQJzN-NA-xvCO4_mfi1SrggFNJ7AVeBkh0xySltXGNMOQdJVvxLHgpP8GfbRrp91WZZQNcCqqSggrJJ0XzpaSa809UY0aZf6wyJhiMAXeLXECZNH0eX3HPo8w9Dr3lw==
+[10] ettoday.net - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvopG-W9KnccHZNDqQ8iaTxctl1tLcVGeRAg_jAJPvG65Z5AodpaaPylRl3creYx6WBX8vTKnixXZC4FGpG372qYwsCWJn8qs4Up8AFLsRPAUHgBv8aJFojrEg9SkJh7kNfU=
+[11] vocus.cc - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIvjEXrYtQYmzOvGmkmsd2B2wuDFWdIgrtpO4zeVY2g9hZy4154gUHyluzfpbqoePVBMrh2atq8OWP2O5Ai7EPBMlIuZ7qigyj9cBcDuO-MWZ8qBWLPmVCSqLTK-2KT776ZI5_sUOppF4vjvo=
+[12] videoland.com.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-qoE6MlvSie1B5grHXcHRnTcTg1HQB5SsI6q4meIjQDshHP2pJ1g2TZMWFPvf9LnRcPwJwwQ50MNE7HrXUwjxf714dEtqVC4vUusnl9q17CSCB4xe3KV3VvQEG1OBfJFzXxwiGGP4xv_VaU3NZ7ao6IY4yZZFa68qbqu2IWCtd9UyFLguJgbNYE=
+[13] udn.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbEhSJ2CuldnZSRV8zSz51nEA9g-J4udIdyNJRGSu1wDqLCTe6Db4EOWocI0k9Fdw5bw-MvCJfQzujmv6XtMwaQy2wSkEBMSPgDJbdnnygPBdNJFBJjaRpMOAtKRLoDGxuLsJndaKxSEs=
+[14] cls.cn - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGfP7L0Maf3gxABCgghHvU-MRw6_yZmVDWc5daEy9p2_q4BQmbs-lWcDD60PU7HbQAByOeJxy9_3UVLll624t5c5B11RpzL4D7IlOTWwts59o3xwbxFnT2I7uXUw==
+[15] epochtimes.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUiK4qDsGi7uLrW-KoUIWRoNs3HxyzuF_c4CuvF0WsnbZNtIyR2-LzBDQTTtA2ueNmy74Bm97KN2utJG6ZWc3DqjiDz1qcUit18h20kfv87na-fgRv1TBvHKxxR_kQcBx7YhSoxDT-rj0C
+[16] substack.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENNy9-vuIxvUDao7jYNTUffDnwVH0pseQaHCtW97nsHZK2hV8qvtMId4V4yPrYulyThip6Wi_xJcd6XQIsidKOEbXRaQmLvx1vqhwz11kXFBpyErGOQJwsK3hkSEXckhAYzRwpkqHmzDw=
+[17] udn.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd9n6UoXAu_bEp0bJrjJvMQ9MueAnkAe5KEJ4FZJU9EoxoJSrQwBTHsg6eaou7shPCxAMj0Ta3qIsl7b2x3i7dfZtQY3DWVLv9u_dJQrIVfUBfuz21I6Qd-ztEwwS1UvJWszrtqBQTjzk=
+[18] investing.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrVF2A9HGBgLGR-Z7YsxkvvOMM4t4ugp7gzgapV8zfKhu3kXU-3TGNOc8peUWSXLVS3NotF7GG6oTXsEWYVDI2XSTVFZiK_7M89QOIEBg6S81bodIIBLw7wLkU_TuUNKgm1AYj3B2R2a9PeD1PQZFZ5a-aTvnaoL_esg==
+[19] chinatimes.com.hk - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUWvgLNLpPSFG77QV0TGOpODTEBdjPNGG3ymeGv7uqIXs48xkSpy2OMhCQFUY67nveaNV1CqImo8iO-p2-6aRIkvivurofHrrceMZuipTJBmEWPbeaxcx_bxPcTKtc211GsPXt
+[20] cnyes.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1FG6_fgfuIUYL1nCML-qxMdENaYHeVsPdhHUSCbSaknrZObKFpaJ0a_qSqcK-dcN2AIkUPs2hlGA_6rRxIMIeHXlQiLQ3I5DMC9Sd23Ume4ew8y_GLUZdTwVNPTQBWTcQ
+[21] futuristicrisks.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp_QIwt2DaJNc0ydqNmAz_nq3uSea7zVLwjj_CjLce1DGTKCtp7-kqxQpPOAW9hzej00SP-6YR51G3b1x9KD7UNFrXSVTYaVJgRv8muvcpdLxfi-q_37l-Jzt2rtl-fhSvvUsjeyFQr3-ceAE8nCnDcwCC2URR8A==
+[22] tejwin.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt5Hf9J6i-Yp0XyYmXekOM32m23R0d0H85Kv0ObyOxWQPntg3uuTGJXxm2qgbax0T3f7VuWBOc0SHzmUY3aVcDUYYdl-TptseDKphVfr6DLSFOw2HzTPSG_wq_S2Q2smP3PcWhtd3EcT0HLNtmqXzPVe9hqs370aX69G3Cc6hsJKzgmpH2TDhQJ0HMvlD5Dvj76hb7wEIO9HPsNE-bybU1t9x5B9lNsg==
+[23] udn.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhH-HdpdXYqw34-0yfiEylm3H9V_hff1bx1f5EyVySpOOekBwIQcpX7RAp9ykIvWMHMYzk4bwQUl5CILdPGOkTSx3FHoY6p6fU_F4Q9qZLo2A03AyGmxH7mm_iwlPFBvarsQ==
+[24] boc.cn - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFts3AvrNfRdPlIXFimuA8_VHDkE5w2RF6eEIoLovMSCN7KeDzRR5n3U8MeaO9H0IdtEvP8jB0CiVyv-DK7j4bZAx3Y2uf0hixjDVOKtnvDXMb3lCq1pMLpCBzXvO0zraJNtFD_U_sH9E3jxDKayPZm7ZXHC9FZnO6pOB8HDGzO-qUdtqQ=
+[25] cngold.org - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo35CNj6AvWEf-IfmvsBwbUh1h6lVSMw8l59QVdSaGb9eFLW-AyNx2G3_5N6oOYqDvtIn8ELfVrDlimjVyEHWHWgB9aZQSA2CSwjwLdVREsnoohBFZlS12ECiDIkKAolLEu_70aA==
+[26] investing.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu_tw8XI2T2BH9tYFoyqz4vg17OObMU9otdPYfDmq2jsIZsvCrXpdDndtp1EP160mf4V7MuGr-Xj_HP57gNwNgF_Y_k7rKlohH3nLjmv75TSbwdfcrpfkposLY8H6w-reRAkVQOJ7TnDsvahkemzRfZ_QJoA==
+[27] epochtimes.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNWNLw8t5HbZvRZzcSuZRVX93ncRhYK8wShO_hi7lfxDcj_SIYUhVsOkbuut-QMMtv3PHjrnhwBdm3EJsLLZmb3D9K0rKjjTj5ztqil2OLt5UBef5NJRV1Dx5yj55wCdFEQleqdFF8gGzvHyTxJw==
+[28] technews.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfRj3b2psPIboJlgUVN4F9gGLOR7OqYJWIYWCfjGM7rEpKlHjV_wV-R1vu3buZLFi4QB3F_Pmo8OjPdntsqP7iRiMmzsSuR4FPG8pwXNDJQKGVaadVsuX8wNpJvCkOAQG9IGSS5uwF0umeNr8pE7ZPVniz9do-Ot-fYrDf_ZVip8rqDOI-F06LFnzGugqld8ZArAMzK05IDpVhPnJreIYtpjzZLhCpu3EXvtVo-w_5CAy0DWP9NYg=
+[29] ntdtv.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhcgnEeTW2PgcVuk856LC1iIixYWi_DjtIOlSi_MH0e9xWxEw1xwW7jdh7WadD0MjlmtivgmQc5kphv6WiSn0-Dy6pJdETwk7ON_d3mew5uLfX1nAappDRBmoUrt_OTb3qnzPECXXpjmOba8h_pg==
+[30] seftb.org - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJNxmietO8hhzh6HX_uuXwhKvCRuCTZ6ydWU-R3szQq0qSW_iDcJPjnhdTvMBkq2OwGaL9T-LA1n9F2HWAj1NZHeludTr-ZV7KiL9jGvlsbkNKyQveJJzKhpc6A_GC8t1tO3LAerpJ
+[31] chmfia.org - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVWdU_2e9LTNgY3v2VBxW36QNlyQtyVxaRhTeyAr4iZkIHEpoNeS336_dOtV93sSmdZtXj1DM0KMD7I5dkA2yjNwoFJFbywgTGZOtoNVreM1q4UJtMz1jB3PHbx8iPz8I9-6DP56CSwvTxHVa2HQ==
+[32] ctee.com.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX5O9X2_Xg4e3uJVRrdOns2-8I_c84W3oh2DqHTcXFBuLUeC6vb4FfmN4IulXtk8G5IQ2OqJ4oOspEaXP_MHHm6KYGJDIIM8dNthDz9ObNUSluqcmlixZE1ec8Ij9D9GJ4M-ydOe_yAZ3bgVfs
+[33] cnyes.com - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG59Wu_OAsgPxvL70yaENqoqzJobq5jq4Gd1jGOCwGSuQgeqiZI0ZclWVNFOTmdzezU7IuBAoWausUe7r8shmYxUbRMb2f9keNOJmrHthxvLNylK8IqCqyRoFCx_9jFR24MQczDDQ==
+[34] chmfia.org - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJY6ImOrx2gcwxopYqV2j-leJyqpCliT3eKu0ytYqx6zCUBkdx6_0RFyoQd_4HsGwJ1ISOwLsWH8OxDkKlbQT5du5ur7HjK0cW82lAlKuEAjw-7K_iNNDgEUXZrrKNVajtfwbXVoGuXDlWTQ==
+[35] stockq.org - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2CBNU3bUIDCvvaGc_kFWVTdgROQiy0dsyp--MizSz2I78F36V69oGsOY9qiGRZtEfEiB0Qc3xgr0hZyHpSnEFAsJE-dV_ZM89itqSealQW1bOGQjkTocmxN6ZnEPnVxD15Oo=
+[36] macromicro.me - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGifAuVVdhEYDJfKnIjpRzDs3OPzVtyAGkuuVdxCI-kAXVyIpuYST2UDB-NFEnMqYJ3M5CFdLzBWGUbsVC-XnjdTxf7kpZEi8lFNVs6hgFzGEeHO7fPXtwKslMq_2c-vABZY0TX_3buFAErxVvSXhsqRg==
+[37] macromicro.me - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLiRK8dhOgwiw9EqMNOYw9aEB4zfsILGe1YQPB3gOlhNV_RkhRsqxk1pTo2-gXmi-dfOIWMuBVHF7TELcxC75_efz1yKLYFCz1Rb22ccMCKiFyZkpSkOvxmceE1BzI1nbViticCejqTQDOd-1eNeyMrygDw4oN-cHcYg==
+[38] rti.org.tw - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEax_yDgMjUT3Rrn3kSb5rjLGPB-nAgrFvQlQJYs1tFdvZ385NDsOtzTQb4Li_QXUQWgKSObAFqFuhU6cxthAY3LYiMZdoil4qRnutWFhifmbqrFFtj0ewf9ymzcEZ4c_C3y5IJZ2sk

@@ -1,0 +1,42 @@
+{
+  "report_date": "2026-05-07",
+  "generated_at": "2026-05-07T14:11:15.248181+08:00",
+  "timezone": "Asia/Taipei",
+  "stock_no": "2330",
+  "gemini_model": "gemini-2.5-flash",
+  "gemini_model_primary": "gemini-2.5-flash",
+  "gemini_model_fallback": "gemini-2.5-flash-lite",
+  "gemini_model_used": "gemini-2.5-flash",
+  "gemini_thinking_budget_primary": -1,
+  "gemini_thinking_budget_fallback": 24576,
+  "gemini_thinking_budget_used": -1,
+  "gemini_include_thoughts": false,
+  "gemini_fallback_used": false,
+  "gemini_fallback_reason": "",
+  "gemini_attempted_models": [
+    "gemini-2.5-flash"
+  ],
+  "analysis_ok": true,
+  "today_has_new_data": true,
+  "market_should_open": true,
+  "market_event": null,
+  "latest_trade_date": "2026-05-07",
+  "latest_close": "2,310.00",
+  "latest_change": "+60.00",
+  "latest_volume": "34,884,000",
+  "report_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-05-07_tsmc_report.txt",
+  "summary_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-05-07_tsmc_summary.txt",
+  "meta_path": "H:\\Tony\\WT\\script\\tsmc-stock-price-lookup-analysis\\reports\\2026-05-07_tsmc_meta.json",
+  "email_sent": true,
+  "line_push_attempted": true,
+  "line_push_sent": true,
+  "line_push_error": "",
+  "line_push_response": [
+    {
+      "status_code": 200,
+      "ok": true,
+      "body": "{\"sentMessages\":[{\"id\":\"612876691249562219\",\"quoteToken\":\"pPuVaiRVW_eDbv7Z768WXYeXi-da_R509kXfFsWqGLgwhQGsIojTVIe5dDOC9uByT4qeZvMqlfN3oBkYZwUoBJwlZ0xYDqhPQIjCpgbahEq8HArg80AOzQWvLDyZlBxewKgAIdciKFmUwigOeD6Qkw\"}]}"
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,22 @@
+台積電(2330)
+今日日期：2026-04-09
+今天已取得新的成交資料。
+
+最近一個成交日：2026-04-09
+最近收盤價：1,955.00
+最近漲跌價差：+5.00
+最近成交股數：31,618,000
+
+分析：
+Gemini 分析階段失敗，因此本次只寄送成交資料摘要。
+錯誤訊息：503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+LINE 用短摘要：
+- Gemini 分析階段失敗，本次只提供成交資料。
+- 請查看完整報告中的錯誤訊息。
+
+資料來源：
+https://www.twse.com.tw/exchangeReport/STOCK_DAY
+https://www.twse.com.tw/zh/trading/historical/stock-day.html
+https://openapi.twse.com.tw/v1/holidaySchedule/holidaySchedule
+https://www.dgpa.gov.tw/information?pid=12573&uid=41
